@@ -37,3 +37,12 @@ The player controls 'the Wanderer' who stumbles on an ancient tablet shard in th
 * Turn Based Combat
 
 ## Gallery
+
+![alt text](https://github.com/dv-dev-6000/ForgottenVale/blob/master/FV%20Gallery/Cap.PNG)
+
+![alt text](https://github.com/dv-dev-6000/ForgottenVale/blob/master/FV%20Gallery/g-one.gif)
+
+![alt text](https://github.com/dv-dev-6000/ForgottenVale/blob/master/FV%20Gallery/g-two.gif)
+
+![alt text](https://github.com/dv-dev-6000/ForgottenVale/blob/master/FV%20Gallery/g-three.gif)
+

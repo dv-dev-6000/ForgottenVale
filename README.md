@@ -15,8 +15,8 @@ https://youtu.be/Ad5sY33i-f4
 ### The Game
 
 #### Overview
-This project was created with Monogame in C# for the 2nd year Graded Unit as part of the Edinburgh College Game Development HND course. This solo project combined elements of **project management, digital art/animation, design, programming and UX**. 
-
+<div align="justify">This project was created with Monogame in C# for the 2nd year Graded Unit as part of the Edinburgh College Game Development HND course. This solo project combined elements of **project management, digital art/animation, design, programming and UX**. 
+<br><br>
 The aim was to create a game around the theme Environmental Change, it's a retro style 2D RPG adventure with turn based combat, character development and recruitable companions. The player controls 'the Wanderer' who stumbles on an ancient tablet shard in the woods. This triggers a series of events which requires them to set out on an adventure to find the forgotten vale, reassemble the 'gaia tablet' and restore order to the changing world. The game engine was built using monogame libraries, the game requires a controller and runs on windows.
 
 #### Game Features
@@ -38,10 +38,10 @@ The aim was to create a game around the theme Environmental Change, it's a retro
 
 #### Engine Features
 
-* Dialog Manager *Supporting dialog interactions with characters and game objects*
-* Battle Manager *Supporting turn based battle encounters with a variety of NPC enemies and multiple supporting character options*
-* Navigation Grid *Navgrid system to define level layouts, control random encounters & define the properties of unique tiles*
-* Environmental System *Facilitating the change between the games three environmental states*
+* **Dialog Manager** - *Supporting dialog interactions with characters and game objects*
+* **Battle Manager** - *Supporting turn based battle encounters with a variety of NPC enemies and multiple supporting character options*
+* **Navigation Grid** - *Navgrid system to define level layouts, control random encounters & define the properties of unique tiles*
+* **Climate System** - *Facilitating the change between the games three environmental states*
 
 ### Gallery
 
